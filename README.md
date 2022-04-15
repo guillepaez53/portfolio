@@ -25,7 +25,7 @@ They can be found at https://github.com/guillepaez53/portfolio-telcochurn/tree/m
 
 ## What's done
 
-Up to date, the repository consist in an extensive Notebook which includes a complete EDA and Data Curation. It does its best to find the relationships between several pairs of features, and between this and the target (whether the customer churns or not), and to make this patterns explainable.
+Up to date, the repository consist in an extensive Notebook which includes a complete EDA and Data Curation. It does its best to find the relationships between several pairs of features, and between these features and the target (whether the customer churns or not), in order to explain these patterns as clear as possible.
 
 ## What's coming
 
