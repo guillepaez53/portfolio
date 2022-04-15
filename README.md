@@ -6,7 +6,7 @@ The original dataset is provided by IBM Cognos Analytics.
 
 ## Libraries
 
-The notebook was runned in a local conda environment with the following libraries installed:
+The notebooks were runned in a local conda environment with the following libraries installed:
 - Python==3.8.12
 - Numpy==1.22.2
 - Pandas==1.4.0
