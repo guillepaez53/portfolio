@@ -7,13 +7,14 @@ The original dataset is provided by IBM Cognos Analytics.
 ## Libraries
 
 The notebooks were runned in a local conda environment with the following libraries installed:
-- Python==3.8.12
-- Numpy==1.22.2
-- Pandas==1.4.0
-- Matplotlib==3.5.1
-- Seaborn==0.11.2
-- Plotly==5.6.0
-- Prince==0.7.1
+- python==3.9.12
+- numpy==1.21.5
+- pandas==1.4.2
+- openpyxl==3.0.9
+- matplotlib==3.5.1
+- seaborn==0.11.2
+- plotly==5.6.0
+- prince==0.7.1
 
 ## Data
 
